@@ -1,7 +1,3 @@
-<!-- OPTIONAL: Add your banner (replace banner.png with your own file) -->
-<p align="center">
-  <img src="banner.png" alt="Adyasha Khuntia – Machine Learning & Biomedical Data Scientist" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Adyasha 👋</h1>
 
@@ -68,7 +64,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - SHAP explainability & export of model interpretations  
 - Containerized + HPC-ready (SLURM) execution  
 
-**➡️ Repo link:** _coming soon_
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Repository-Click%20Here-blue)]([[https://github.com/adyasha95/biomedical-ml-pipeline](https://github.com/adyasha95/BMIgapCodeRepo)](https://github.com/adyasha95/BMIgapCodeRepo))
 
 ---
 
