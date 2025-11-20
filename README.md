@@ -107,6 +107,20 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - Designed for reproducible analysis of clinical & biomedical datasets  
 
 **➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/GAM)
+
+---
+
+### **6️⃣ Neuroimaging Preprocessing Pipeline**
+
+**MATLAB | SPM8/VBM8 | HPC (SLURM) | Structural MRI
+	
+- Automated preprocessing: segmentation, normalization, bias correction
+- Outputs GM/WM/CSF maps + modulated and unmodulated images
+- Fully scripted pipeline with reproducible batch execution
+- HPC-ready (SLURM): parallel subject processing + logging
+
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/Neuroimaging-Preprocessing-Pipeline)
+
 ---
 
 ## 📊 GitHub Stats
