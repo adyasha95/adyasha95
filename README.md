@@ -64,7 +64,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - SHAP explainability & export of model interpretations  
 - Containerized + HPC-ready (SLURM) execution  
 
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Repository-Click%20Here-blue)](https://github.com/adyasha95/BMIgapCodeRepo)
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/BMIgapCodeRepo)
 
 ---
 
@@ -74,7 +74,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - Supports multimodal inputs (MRI, clinical, genetics)  
 - Designed for biomarker discovery & phenotyping  
 
-**➡️ Repo link:** _coming soon_
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/BMIgapCodeRepo)
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - Automatic metadata extraction & QC  
 - Reproducible transformations for regulated environments  
 
-**➡️ Repo link:** _coming soon_
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/ECNP-NNADRrepo)
 
 ---
 
@@ -93,8 +93,21 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - Optical flow, pose estimation, morphology features  
 - Ideal for rapid prototyping of imaging-based biomarkers  
 
-**➡️ Repo link:** _coming soon_
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/feature-tracking-opencv-demos)
 
+---
+
+### **5️⃣ Biostatistics & Clinical Modeling**
+**Survival Analysis | GAM | Mixed Models | Clinical Risk Modeling**
+
+- Kaplan–Meier and Cox proportional hazards modeling  
+- Generalized Additive Models (GAM) for nonlinear clinical effects  
+- Time-to-event analysis for clinical endpoints  
+- Multivariate regression and covariate-adjustment workflows  
+- Visualizations for survival curves, hazard ratios, and partial effects  
+- Designed for reproducible analysis of clinical & biomedical datasets  
+
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/GAM)
 ---
 
 ## 📊 GitHub Stats
