@@ -130,9 +130,11 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - Includes synthetic GDPR-safe medical notes + HF Trainer workflow
 - Full workflow: preprocessing → fine-tuning → evaluation → confusion matrices
 - Demonstrates NLP engineering for clinical decision support systems
+  
 **➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/nlp-clinical-bert-pipeline)
   
 ---
+
 ### **8️⃣ Clinical Named Entity Recognition (NER)**
 **Huggingface | Token Classification | Clinical Information Extraction**
 
@@ -143,7 +145,6 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 
 **➡️ Repo link:**  [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/health-nlp-ner-transformers)
 
-➡️ Repo link:
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyasha95&layout=compact&theme=default" height="165">
