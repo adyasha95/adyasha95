@@ -122,9 +122,10 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 **➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/Neuroimaging-Preprocessing-Pipeline)
 
 ---
-### **7️⃣ Clinical Text Classification with Transformers (NLP/LLM)
 
-**Hugging Face | BERT/RoBERTa | Synthetic Clinical Notes
+### **7️⃣ Clinical Text Classification with Transformers (NLP/LLM)**
+**Huggingface | BERT/RoBERTa | Synthetic Clinical Notes**
+
 - End-to-end pipeline for classifying clinical text using transformer models
 - Includes synthetic GDPR-safe medical notes + HF Trainer workflow
 - Full workflow: preprocessing → fine-tuning → evaluation → confusion matrices
@@ -133,7 +134,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
   
 ---
 ### **8️⃣ Clinical Named Entity Recognition (NER)**
-**Hugging Face | Token Classification | Clinical Information Extraction**
+**Huggingface | Token Classification | Clinical Information Extraction**
 
 - Transformer-based NER for extracting symptoms, medications, measurements  
 - Synthetic GDPR-safe clinical text generator included  
