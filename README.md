@@ -64,7 +64,7 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 - SHAP explainability & export of model interpretations  
 - Containerized + HPC-ready (SLURM) execution  
 
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/BMIgapCodeRepo)
+**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/Biomedical-ML-Pipeline)
 
 ---
 
