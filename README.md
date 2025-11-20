@@ -112,7 +112,6 @@ I enjoy working at the intersection of **ML engineering, translational science, 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adyasha95&show_icons=true&count_private=true&theme=default" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyasha95&layout=compact&theme=default" height="165">
 </p>
 
