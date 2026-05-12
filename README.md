@@ -53,19 +53,6 @@ Cloud           Google Cloud Run · FastAPI · Pinecone
 
 - **N=1,504** training / **N=559** validation — BMIgap SVM (MAE 2.75 kg/m², R²=0.28)
 - **11 EU clinical sites** coordinated in a GDPR-compliant federated neuroimaging network
-- **1 systematic review** supervised to publication (*Psychiatry and Clinical Neurosciences*)
-- Co-author, *Nature Mental Health* (2025)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adyasha95&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&custom_title=Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyasha95&layout=compact&theme=default&hide_border=true&langs_count=6" height="165">
-
-</div>
 
 ---
 
