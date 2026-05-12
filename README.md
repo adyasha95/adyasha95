@@ -1,176 +1,66 @@
-<h1 align="center">Hi, I'm Adyasha 👋</h1>
+# Adyasha Khuntia
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=000000&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Biomedical+AI;Neuroimaging+%7C+Clinical+Data+Science;Reproducible+ML+Pipelines+%7C+HPC+Workflows;">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=000000&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Biomedical+AI;Neuroimaging+%7C+Clinical+Data+Science;Reproducible+ML+Pipelines+%7C+HPC+Workflows">
-  </a>
-</p>
+**PhD · Data Scientist · ML Engineer · Biomedical AI**
+
+[LinkedIn](https://www.linkedin.com/in/adyasha-khuntia) · [Email](mailto:adyasha95@gmail.com) · [Website](https://adyashakhuntia.vercel.app/) · [ORCID](https://orcid.org/0009-0007-9297-5997)
 
 ---
 
-## 🌱 About Me
-I am a Machine Learning & Biomedical Data Scientist with a PhD in Medical Research & AI (LMU Munich).  
-My work focuses on **reproducible ML pipelines, multimodal biomarker modeling, neuroimaging, healthcare data engineering, and explainable AI**.
+I build ML systems that work on real clinical data — reproducible, containerized, and validated at scale.
 
-I build solutions that balance **rigor, scalability, and interpretability**, with experience across:
-- MRI/EEG processing  
-- Normative modeling  
-- Clinical data curation  
-- FAIR data engineering  
-- HPC workflows & containerized ML  
-- Federated learning & uncertainty-aware modeling  
-
-I enjoy working at the intersection of **ML engineering, translational science, and regulated healthcare environments**.
+PhD from LMU Munich in precision psychiatry and neuroimaging. Postdoc coordinating a federated ML network across 11 European clinical sites. Now focused on translating research-grade methods into production-ready data science and ML engineering — across biomedical AI, NLP, and agentic systems.
 
 ---
 
-## 🛠 Tech Stack
+## Selected Projects
 
-### **Programming & ML Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black">
-</p>
-
-### **Data Engineering & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Singularity-000000?logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/SLURM-4C8B29?logo=linux&logoColor=white">
-</p>
-
-### **Medical Imaging & Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/MRI%2FfMRI-000000?logo=brain&logoColor=white">
-  <img src="https://img.shields.io/badge/EEG-000000?logo=google-analytics&logoColor=white">
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [clinicalrag-pipeline](https://github.com/adyasha95/clinicalrag-pipeline) | RAG pipeline for querying clinical trial records — deployed on Google Cloud Run | LangChain · Anthropic API · Pinecone · FastAPI |
+| [ai-channel-playbook](https://github.com/adyasha95/ai-channel-playbook) | Fully agentic YouTube pipeline: trend research → script → narration → 1080p video → auto-upload, weekly via GitHub Actions | Python · Claude · Apify · FFmpeg |
+| [Biomedical-ML-Pipeline](https://github.com/adyasha95/Biomedical-ML-Pipeline) | End-to-end classification for structured biomedical data: nested CV, SHAP, TabTransformer, XGBoost, imbalance handling | scikit-learn · PyTorch · MLflow |
+| [nlp-clinical-bert-pipeline](https://github.com/adyasha95/nlp-clinical-bert-pipeline) | Clinical text classification with fine-tuned BERT/RoBERTa on synthetic GDPR-safe medical notes | HuggingFace · Transformers |
+| [BMIgapCodeRepo](https://github.com/adyasha95/BMIgapCodeRepo) | SVM model predicting BMI deviation in psychiatric populations. Trained on N=1,504, validated on N=559. Published research code | MATLAB · SVM · multi-site |
+| [ECNP-NNADRrepo](https://github.com/adyasha95/ECNP-NNADRrepo) | GDPR-compliant federated ETL and QC across 11 EU clinical sites. FAIR metadata, multi-site neuroimaging harmonization. [Published](https://www.sciencedirect.com/science/article/pii/S2772408524014728) | R · Docker · SPM · CAT12 |
 
 ---
 
-## 🔬 Featured Projects
+## Tech
 
-### **1️⃣ Biomedical ML Pipeline (Classical + TabTransformer)**
-**Python | scikit-learn | PyTorch | MLflow | SHAP | Nested CV**
-- End-to-end classification pipeline with reproducible configs  
-- Imbalance-aware modeling (SMOTE, ADASYN, cost-sensitive)  
-- SHAP explainability & export of model interpretations  
-- Containerized + HPC-ready (SLURM) execution  
-
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/Biomedical-ML-Pipeline)
-
----
-
-### **2️⃣ Normative Modeling Toolkit**
-**Gaussian Processes | Bayesian regression | Neuroimaging**
-- Derives normative deviation scores with uncertainty  
-- Supports multimodal inputs (MRI, clinical, genetics)  
-- Designed for biomarker discovery & phenotyping  
-
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/BMIgapCodeRepo)
+```
+Languages       Python · R · SQL · MATLAB · Bash
+ML / DL         scikit-learn · PyTorch · TensorFlow · XGBoost · LightGBM
+NLP / LLM       HuggingFace · LangChain · Anthropic API · BERT · RAG · vector DBs
+MLOps           MLflow · Docker · Singularity · SLURM · Git · GitHub Actions · CI/CD
+Data            pandas · Airflow · FAIR pipelines · REDCap · DICOM · NIfTI
+Imaging         FSL · SPM · CAT12 · FreeSurfer · OpenCV
+Cloud           Google Cloud Run · FastAPI · Pinecone
+```
 
 ---
 
-### **3️⃣ FAIR Biomedical ETL & Metadata Pipeline**
-**SQL | pandas | Airflow | Data provenance**
-- Modular extraction → validation → transformation chain  
-- Automatic metadata extraction & QC  
-- Reproducible transformations for regulated environments  
+## A few numbers
 
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/ECNP-NNADRrepo)
-
----
-
-### **4️⃣ Clinical Imaging Prototyping Toolkit**
-**OpenCV | Image processing | Lightweight modules**
-- Optical flow, pose estimation, morphology features  
-- Ideal for rapid prototyping of imaging-based biomarkers  
-
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/feature-tracking-opencv-demos)
+- **N=1,504** training / **N=559** validation — BMIgap SVM (MAE 2.75 kg/m², R²=0.28)
+- **11 EU clinical sites** coordinated in a GDPR-compliant federated neuroimaging network
+- **1 systematic review** supervised to publication (*Psychiatry and Clinical Neurosciences*)
+- Co-author, *Nature Mental Health* (2025)
 
 ---
 
-### **5️⃣ Biostatistics & Clinical Modeling**
-**Survival Analysis | GAM | Mixed Models | Clinical Risk Modeling**
+## Engineering principles
 
-- Kaplan–Meier and Cox proportional hazards modeling  
-- Generalized Additive Models (GAM) for nonlinear clinical effects  
-- Time-to-event analysis for clinical endpoints  
-- Multivariate regression and covariate-adjustment workflows  
-- Visualizations for survival curves, hazard ratios, and partial effects  
-- Designed for reproducible analysis of clinical & biomedical datasets  
-
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/GAM)
+**Reproducible by default** — versioned configs, containerized execution, deterministic pipelines  
+**Explainable** — SHAP, uncertainty quantification, normative deviation scores  
+**Healthcare-aware** — GDPR compliance, FAIR metadata, audit trails  
+**Production-minded** — CI/CD, cloud deployment, HPC-ready at scale  
 
 ---
 
-### **6️⃣ Neuroimaging Preprocessing Pipeline**
+## Connect
 
-**MATLAB | SPM8/VBM8 | HPC (SLURM) | Structural MRI
-	
-- Automated preprocessing: segmentation, normalization, bias correction
-- Outputs GM/WM/CSF maps + modulated and unmodulated images
-- Fully scripted pipeline with reproducible batch execution
-- HPC-ready (SLURM): parallel subject processing + logging
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyasha-khuntia)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adyasha95@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://adyashakhuntia.vercel.app/)
 
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/Neuroimaging-Preprocessing-Pipeline)
-
----
-
-### **7️⃣ Clinical Text Classification with Transformers (NLP/LLM)**
-**Huggingface | BERT/RoBERTa | Synthetic Clinical Notes**
-
-- End-to-end pipeline for classifying clinical text using transformer models
-- Includes synthetic GDPR-safe medical notes + HF Trainer workflow
-- Full workflow: preprocessing → fine-tuning → evaluation → confusion matrices
-- Demonstrates NLP engineering for clinical decision support systems
-  
-**➡️ Repo link:** [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/nlp-clinical-bert-pipeline)
-  
----
-
-### **8️⃣ Clinical Named Entity Recognition (NER)**
-**Huggingface | Token Classification | Clinical Information Extraction**
-
-- Transformer-based NER for extracting symptoms, medications, measurements  
-- Synthetic GDPR-safe clinical text generator included  
-- Full workflow: annotation → tokenization → fine-tuning → entity visualization  
-- Demonstrates domain NLP skills for healthcare AI and decision-support systems  
-
-**➡️ Repo link:**  [![Repo Link](https://img.shields.io/badge/Click%20Here-blue)](https://github.com/adyasha95/health-nlp-ner-transformers)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyasha95&layout=compact&theme=default" height="165">
-</p>
-
----
-
-## 🏗 My Engineering Philosophy
-- **Reproducible by default** – versioned, deterministic, containerized  
-- **Explainable** – uncertainty, SHAP values, deviation scores  
-- **Data-centric** – QC, harmonization, FAIR metadata  
-- **Scalable** – HPC, GPUs, batch pipelines  
-- **Healthcare-aware** – GDPR compliance, traceability, documentation  
-
----
-
-## 📫 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/adyasha-khuntia">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:adyasha95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-⭐ _Thanks for visiting! More projects and documentation coming soon._
+*Open to DS/ML engineering roles in healthcare AI, biotech, and data-intensive industries.*
